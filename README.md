@@ -1,3 +1,5 @@
+Streamline your travel prep with our app—effortlessly pack for any trip with personalized suggestions, smart categorization, and a handy checklist, ensuring you never forget the essentials again!
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
